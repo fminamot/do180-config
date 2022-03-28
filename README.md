@@ -5,10 +5,10 @@
 コピーした内容をCtrl-vで貼り付け、ご自分のOpenShiftアカウントに合わせて編集します。
 
 ```
-RHT_OCP4_MASTER_API=<マスターAPI>
-RHT_OCP4_WILDCARD_DOMAIN=<ワイルドカードドメイン名>
-RHT_OCP4_DEV_USER=<OpenShiftユーザー名>
-RHT_OCP4_DEV_PASSWORD=<OpenShiftパスワード>
+RHT_OCP4_MASTER_API=<Master API>
+RHT_OCP4_WILDCARD_DOMAIN=<Wildcard Domain>
+RHT_OCP4_DEV_USER=<OpenShift User>
+RHT_OCP4_DEV_PASSWORD=<OpenShift Password>
 ```
 注意：WILDCARD DOMAINは apps.<ドメイン名> になります。このドメイン名は、MASTER APIのapi.<ドメイン名>と同じです。
 
